@@ -59,21 +59,6 @@ MySQL • MongoDB
 
 ## 🚀 Featured Projects
 
-### 🔸 **1. Employee Management System (Spring Boot + Hibernate + MySQL)**
-✔ CRUD operations  
-✔ RESTful APIs  
-✔ JPA + Hibernate  
-✔ Layered architecture  
-
-### 🔸 **2. Ecommerce Web App (ReactJS + CSS)**  
-✔ Product listing  
-✔ Shopping cart  
-✔ Component-based UI  
-
-### 🔸 **3. Student Result System (JSP + Servlets + JDBC)**  
-✔ Student records  
-✔ Result calculation  
-✔ MVC architecture  
 
 ---
 
